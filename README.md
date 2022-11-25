@@ -7,3 +7,6 @@ Hensikten er å løse gangestykkene som kommer opp på skjermen. Spilleren skal 
 
 Dersom svaret er korrekt vil det utløses en "Correct" sound og antall riktige vil øke med 1.
 Dersom svaret derimot skulle være feil vil en "Wrong" sound utløses. Da vil antall riktige settes til 0.
+
+Åpne spillet her:
+https://bjorneme.github.io/MathGame/
