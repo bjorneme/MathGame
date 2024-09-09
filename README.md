@@ -1,12 +1,9 @@
 # MathGame
-Math game in PlayCanvas.
+A math game built in PlayCanvas.
 
-Slik fungerer spillet:
+# How the game works:
+The goal is to solve multiplication problems that appear on the screen. The player must hit the correct answer with the ball.
 
-Hensikten er å løse gangestykkene som kommer opp på skjermen. Spilleren skal treffe tallet som gir den riktige utregningen med ballen.
+If the answer is correct, a "Correct" sound plays, and the number of correct answers increases by 1. If the answer is wrong, a "Wrong" sound plays, and the correct count resets to 0.
 
-Dersom svaret er korrekt vil det utløses en "Correct" sound og antall riktige vil øke med 1.
-Dersom svaret derimot skulle være feil vil en "Wrong" sound utløses. Da vil antall riktige settes til 0.
-
-Åpne spillet her:
-https://bjorneme.github.io/MathGame/
+Play the game here: [MathGame](https://bjorneme.github.io/MathGame/)
